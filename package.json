@@ -1,0 +1,9 @@
+{
+  "name": "react-accessible-tree",
+  "version": "0.0.0",
+  "main": "dist/react-accessible-tree.js",
+  "repository": "git@github.com:AML-StudioUX/react-accessible-tree.git",
+  "author": "yucongj@microsoft.com",
+  "license": "MIT",
+  "private": false
+}
